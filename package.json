@@ -1,6 +1,6 @@
 {
   "name": "chatgpt-commit-generator",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cubbK/chatgpt-commit-generator.git"
+  },
+  "bin": {
+    "chatgpt-commit-generator": "bin/index.js"
   },
   "keywords": [],
   "author": "",
